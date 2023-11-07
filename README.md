@@ -6,6 +6,6 @@ Meu nome é Letícia Matheus, sou uma estudante de __Ciência da Computação__,
 
 # 📱 Redes Sociais
 
-[![Instagram](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/instagram-icon.svg)](https://www.instagram.com/ticiasz._/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ticiasz._/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-m-cavalcanti-2ba3bb26a/)
 
 # GitHub Stats
