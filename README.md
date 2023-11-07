@@ -12,4 +12,4 @@ Meu nome é Letícia Matheus, sou uma estudante de __Ciência da Computação__,
 
 # GitHub Stats
 
-[![Ticia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ticiasz)](https://github.com/anuraghazra/github-readme-stats)
+[![Ticia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ticiasz&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticiasz&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
